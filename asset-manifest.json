@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6fa0b356.chunk.css",
+    "main.js": "/static/js/main.fa1f37a8.chunk.js",
+    "main.js.map": "/static/js/main.fa1f37a8.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.14278791.js",
+    "runtime-main.js.map": "/static/js/runtime-main.14278791.js.map",
+    "static/js/2.dde22600.chunk.js": "/static/js/2.dde22600.chunk.js",
+    "static/js/2.dde22600.chunk.js.map": "/static/js/2.dde22600.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.6fa0b356.chunk.css.map": "/static/css/main.6fa0b356.chunk.css.map",
+    "static/js/2.dde22600.chunk.js.LICENSE.txt": "/static/js/2.dde22600.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/Inter-Thin.dbd13499.ttf",
+    "static/media/android-purple.78ff755a.svg": "/static/media/android-purple.78ff755a.svg",
+    "static/media/android.8f310aba.svg": "/static/media/android.8f310aba.svg",
+    "static/media/apple-purple.d8c9dd05.svg": "/static/media/apple-purple.d8c9dd05.svg",
+    "static/media/apple.c80f91be.svg": "/static/media/apple.c80f91be.svg",
+    "static/media/backgroundWithLotus.e989d609.png": "/static/media/backgroundWithLotus.e989d609.png",
+    "static/media/light.fa16c395.png": "/static/media/light.fa16c395.png",
+    "static/media/logo.68373b9a.svg": "/static/media/logo.68373b9a.svg",
+    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg",
+    "static/media/mainPhone.54168e8f.png": "/static/media/mainPhone.54168e8f.png",
+    "static/media/scattering.642b8457.png": "/static/media/scattering.642b8457.png",
+    "static/media/slide1.f238c96a.png": "/static/media/slide1.f238c96a.png",
+    "static/media/slide2.cc855385.png": "/static/media/slide2.cc855385.png",
+    "static/media/slide3.23f1ba50.png": "/static/media/slide3.23f1ba50.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.14278791.js",
+    "static/js/2.dde22600.chunk.js",
+    "static/css/main.6fa0b356.chunk.css",
+    "static/js/main.fa1f37a8.chunk.js"
+  ]
+}
